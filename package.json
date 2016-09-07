@@ -1,0 +1,48 @@
+{
+  "name": "baraja",
+  "version": "0.1.0",
+  "description": "Shuffle, just about anything!",
+  "author": {
+    "name": "Stefan Aichholzer",
+    "email": "theaichholzer@gmail.com",
+    "url": "https://github.com/aichholzer"
+  },
+  "contributors": [],
+  "maintainers": [],
+  "keywords": [
+    "random",
+    "shuffle",
+    "rearrange",
+    "strings",
+    "numbers"
+  ],
+  "homepage": "https://github.com/aichholzer/baraja",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aichholzer/baraja.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "=>6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
+  },
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R progress -t 5000"
+  },
+  "bugs": {
+    "url": "https://github.com/aichholzer/baraja/issues"
+  },
+  "_from": "baraja@^0.0.0",
+  "_npmUser": {
+    "name": "aichholzer",
+    "email": "theaichholzer@gmail.com"
+  }
+}
