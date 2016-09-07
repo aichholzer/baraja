@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/aichholzer/baraja.svg?branch=master)](https://travis-ci.org/aichholzer/baraja)
 # baraja
-Shuffle, just about anything.
+Shuffle, just about anything!
 
 
-### Install
+## Install
 ```
 npm install --save baraja
 ```
@@ -17,7 +17,7 @@ const baraja = require('baraja');
 ### API
 
 #### .fromArray(array, sort)
-Shuffle multiple strings into one.
+Shuffle multiple strings into one.<br />
 `array`: An array of strings to be shuffled into one.<br />
 `sort`: `asc` || `desc` - Order strings by length before shuffling them.
 
