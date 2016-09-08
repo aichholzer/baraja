@@ -1,6 +1,6 @@
 {
   "name": "baraja",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shuffle, just about anything!",
   "author": {
     "name": "Stefan Aichholzer",
@@ -40,7 +40,7 @@
   "bugs": {
     "url": "https://github.com/aichholzer/baraja/issues"
   },
-  "_from": "baraja@^0.0.0",
+  "_from": "baraja@^0.1.0",
   "_npmUser": {
     "name": "aichholzer",
     "email": "theaichholzer@gmail.com"
